@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Images/media-playback-pause.png</file>
+        <file>Images/media-playback-start.png</file>
+        <file>Images/media-playback-stop.png</file>
+        <file>Images/media-skip-backward.png</file>
+        <file>Images/media-skip-forward.png</file>
+    </qresource>
+</RCC>
